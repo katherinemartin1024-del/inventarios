@@ -55,3 +55,8 @@ En la siguiente captura se evidencia la creación de la tabla Detalle_Venta en l
 Esta tabla permite gestionar el acceso al sistema Sistema_Retail y almacena información relacionada con los usuarios del sistema, incluyendo datos como nombre de usuario, contraseña, rol y estado, lo que permite controlar la autenticación y los permisos de acceso dentro de la aplicación
 
 ![image alt](https://github.com/katherinemartin1024-del/inventarios/blob/29c082126d77a79600074f647c8d548b00e4739a/Usuarios.png)
+
+
+     Creación de la tabla Diagrama de base de datos Sistema_Retail
+En él se evidencian las tablas Usuarios, Productos, Ventas y Detalle_Venta, junto con sus relaciones mediante claves primarias y foráneas, dichas relaciones permiten conectar la información entre usuarios, productos y ventas dentro del sistema
+![image alt]()
