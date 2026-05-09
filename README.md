@@ -63,5 +63,5 @@ En él se evidencian las tablas Usuarios, Productos, Ventas y Detalle_Venta, jun
 
 
      Consulta Join
-Dentro de esta consulta se utiliza JOIN para integrar información de varias tablas, permitiendo visualizar usuarios, productos y ventas en una sola consulta permitiendo visualizar en una sola consulta los usuarios, productos y ventas registradas dentro del sistema.
+Dentro de esta consulta se utiliza JOIN para integrar información de varias tablas, permitiendo visualizar usuarios, productos y ventas registradas dentro del sistema en una sola consulta
 ![image alt](https://github.com/katherinemartin1024-del/inventarios/blob/1c98f7175225464bc1ffc5d3c8a7d85f0f13b38d/Consulta%20Join.jpg)
