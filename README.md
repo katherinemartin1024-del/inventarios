@@ -47,4 +47,6 @@ En esta captura se evidencia la creación de la tabla Ventas en SQL Server, la c
 ![image alt](https://github.com/katherinemartin1024-del/inventarios/blob/6b8225c1fb991e4d2a17ef8ad544967e1b9d7a07/Ventas.png)
 
 
-
+     Creación de la tabla Detalle_Venta
+En la siguiente captura se evidencia la creación de la tabla Detalle_Venta en la cual se puede almacenar el detalle de cada transacción de venta, en esta tabla se registran los productos asociados a cada venta, junto con la cantidad y el precio unitario, permitiendo descomponer cada venta en sus elementos individuales
+![image alt]()
