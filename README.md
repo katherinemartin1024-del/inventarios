@@ -50,3 +50,7 @@ En esta captura se evidencia la creación de la tabla Ventas en SQL Server, la c
      Creación de la tabla Detalle_Venta
 En la siguiente captura se evidencia la creación de la tabla Detalle_Venta en la cual se puede almacenar el detalle de cada transacción de venta, en esta tabla se registran los productos asociados a cada venta, junto con la cantidad y el precio unitario, permitiendo descomponer cada venta en sus elementos individuales
 ![image alt](https://github.com/katherinemartin1024-del/inventarios/blob/c65e2c58518aa431e6de824d64b3d194946bc6f0/Detalle_Venta.png)
+
+     Creación de la tabla Usuarios
+Esta tabla permite gestionar el acceso al sistema Sistema_Retail y almacena información relacionada con los usuarios del sistema, incluyendo datos como nombre de usuario, contraseña, rol y estado, lo que permite controlar la autenticación y los permisos de acceso dentro de la aplicación
+![image alt]()
