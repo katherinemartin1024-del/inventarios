@@ -60,3 +60,8 @@ Esta tabla permite gestionar el acceso al sistema Sistema_Retail y almacena info
      Creación de la tabla Diagrama de base de datos Sistema_Retail
 En él se evidencian las tablas Usuarios, Productos, Ventas y Detalle_Venta, junto con sus relaciones mediante claves primarias y foráneas, dichas relaciones permiten conectar la información entre usuarios, productos y ventas dentro del sistema
 ![image alt](https://github.com/katherinemartin1024-del/inventarios/blob/969edd14e5d86fb9ac96e6a313d6d4a1ddbc986d/Diagrama%20base.png)
+
+
+     Consulta Join
+Dentro de esta consulta se utiliza JOIN para integrar información de varias tablas, permitiendo visualizar usuarios, productos y ventas en una sola consulta permitiendo visualizar en una sola consulta los usuarios, productos y ventas registradas dentro del sistema.
+![image alt](https://github.com/katherinemartin1024-del/inventarios/blob/1c98f7175225464bc1ffc5d3c8a7d85f0f13b38d/Consulta%20Join.jpg)
