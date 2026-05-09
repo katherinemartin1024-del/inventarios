@@ -38,7 +38,7 @@ Se utilizaron sentencias SQL para la creación de tablas y relaciones mediante c
      Creación de la tabla Productos
 En la siguiente captura se evidencia la creación de la tabla Productos en Sql server, esta tabla almacena la información del inventario, incluyendo campos como IdProducto, Nombre, Precio y Stock, lo que permite la gestión de los productos del sistema de manera estructurada
 
-![image alt](https://github.com/katherinemartin1024-del/inventarios/blob/6b8225c1fb991e4d2a17ef8ad544967e1b9d7a07/Ventas.png)
+![image alt](https://github.com/katherinemartin1024-del/inventarios/blob/6a160570a4e62f8e80faef8105a1e8f546650b5b/Productos.png)
 
 
      Creación de la tabla Ventas
