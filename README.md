@@ -13,3 +13,36 @@ El prototipo fue diseñado en Figma y cumple con el nivel de maduración tecnol�
 - Ventas
 - Reportes
 - Usuarios
+
+
+
+## 1.Base de datos del sistema
+El sistema Sistema Retail implementa una base de datos relacional en SQL Server, la cual permite la gestión estructurada de usuarios, productos, ventas y detalle de ventas
+
+## 2.Modelo de datos
+- Usuarios
+- Productos
+- Ventas
+- Detalle_Venta
+
+## 3.Relaciones
+* Usuarios → Ventas (1:N) 
+* Ventas → Detalle_Venta (1:N) 
+* Productos → Detalle_Venta (1:N)
+
+## 4.Implementación
+Se utilizaron sentencias SQL para la creación de tablas y relaciones mediante claves primarias y foráneas, garantizando la integridad referencial del sistema
+
+
+## 5.Evidencias
+    Creación de la tabla Productos
+En la siguiente captura se evidencia la creación de la tabla Productos en Sql server, esta tabla almacena la información del inventario, incluyendo campos como IdProducto, Nombre, Precio y Stock, lo que permite la gestión de los productos del sistema de manera estructurada
+
+
+
+
+
+
+
+
+
