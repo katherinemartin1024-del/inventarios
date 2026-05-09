@@ -53,4 +53,5 @@ En la siguiente captura se evidencia la creación de la tabla Detalle_Venta en l
 
      Creación de la tabla Usuarios
 Esta tabla permite gestionar el acceso al sistema Sistema_Retail y almacena información relacionada con los usuarios del sistema, incluyendo datos como nombre de usuario, contraseña, rol y estado, lo que permite controlar la autenticación y los permisos de acceso dentro de la aplicación
+
 ![image alt](https://github.com/katherinemartin1024-del/inventarios/blob/29c082126d77a79600074f647c8d548b00e4739a/Usuarios.png)
