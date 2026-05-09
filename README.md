@@ -44,7 +44,7 @@ En la siguiente captura se evidencia la creación de la tabla Productos en Sql s
      Creación de la tabla Ventas
 En esta captura se evidencia la creación de la tabla Ventas en SQL Server, la cual almacena la información de las transacciones realizadas en el sistema, esta tabla registra datos como la fecha de la venta y el usuario responsable de la operación, permitiendo llevar el control de las ventas realizadas dentro del sistema
 
-
+![image alt](https://github.com/katherinemartin1024-del/inventarios/blob/a8d7310f6a96d32d9791444dd3147d5b16693f80/Detalle_Venta.png)
 
 
 
